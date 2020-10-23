@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">GmailNavigation</string>
+    <string name="profile">Profile</string>
+    <string name="notifications">Notifications</string>
+    <string name="collection">Collection</string>
+    <string name="inbox">Inbox</string>
+    <string name="orders">Orders</string>
+    <string name="others">Others</string>
+    <string name="settings">Settings</string>
+    <string name="support">Support</string>
+    <string name="about_us">About Us</string>
+    <string name="john_doe">John Doe</string>
+    <string name="verified">Verified</string>
+    <string name="shiv">Shiv</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
